@@ -1,6 +1,4 @@
 <!-- prettier-ignore-start -->
-# til-template
-
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [10월 다섯째주, 2주차] : git, javascript, express
